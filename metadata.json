@@ -1,0 +1,6 @@
+{
+  "name": "The High Jumper",
+  "description": "A high-speed 3D endless runner featuring Mahatma Mohandas Karamchand Gandhiji in 3D with responsive jump, slide, and coin-collecting mechanics for desktop and mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
